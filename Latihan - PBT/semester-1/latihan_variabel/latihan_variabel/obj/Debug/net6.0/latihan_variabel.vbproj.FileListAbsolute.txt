@@ -1,0 +1,14 @@
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\bin\Debug\net6.0\latihan_variabel.exe
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\bin\Debug\net6.0\latihan_variabel.deps.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\bin\Debug\net6.0\latihan_variabel.runtimeconfig.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\bin\Debug\net6.0\latihan_variabel.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\bin\Debug\net6.0\latihan_variabel.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\latihan_variabel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\latihan_variabel.AssemblyInfoInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\latihan_variabel.AssemblyInfo.vb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\latihan_variabel.vbproj.CoreCompileInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\latihan_variabel.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\refint\latihan_variabel.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\latihan_variabel.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\latihan_variabel.genruntimeconfig.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\latihan_variabel\latihan_variabel\obj\Debug\net6.0\ref\latihan_variabel.dll

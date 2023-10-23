@@ -1,0 +1,14 @@
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\bin\Debug\net6.0\select - case.exe
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\bin\Debug\net6.0\select - case.deps.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\bin\Debug\net6.0\select - case.runtimeconfig.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\bin\Debug\net6.0\select - case.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\bin\Debug\net6.0\select - case.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\select - case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\select - case.AssemblyInfoInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\select - case.AssemblyInfo.vb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\select - case.vbproj.CoreCompileInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\select - case.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\refint\select - case.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\select - case.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\select - case.genruntimeconfig.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\select - case\obj\Debug\net6.0\ref\select - case.dll

@@ -1,0 +1,14 @@
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\bin\Debug\net6.0\Latihan_pengkondisian.exe
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\bin\Debug\net6.0\Latihan_pengkondisian.deps.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\bin\Debug\net6.0\Latihan_pengkondisian.runtimeconfig.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\bin\Debug\net6.0\Latihan_pengkondisian.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\bin\Debug\net6.0\Latihan_pengkondisian.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\Latihan_pengkondisian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\Latihan_pengkondisian.AssemblyInfoInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\Latihan_pengkondisian.AssemblyInfo.vb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\Latihan_pengkondisian.vbproj.CoreCompileInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\Latihan_pengkondisian.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\refint\Latihan_pengkondisian.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\Latihan_pengkondisian.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\Latihan_pengkondisian.genruntimeconfig.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then\obj\Debug\net6.0\ref\Latihan_pengkondisian.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "latihan_variabel/1.0.0": {
+        "runtime": {
+          "latihan_variabel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "latihan_variabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

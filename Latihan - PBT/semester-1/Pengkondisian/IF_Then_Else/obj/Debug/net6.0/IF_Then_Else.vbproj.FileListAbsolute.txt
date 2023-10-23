@@ -1,0 +1,14 @@
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\IF_Then_Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\IF_Then_Else.AssemblyInfoInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\IF_Then_Else.AssemblyInfo.vb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\IF_Then_Else.vbproj.CoreCompileInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\bin\Debug\net6.0\IF_Then_Else.exe
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\bin\Debug\net6.0\IF_Then_Else.deps.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\bin\Debug\net6.0\IF_Then_Else.runtimeconfig.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\bin\Debug\net6.0\IF_Then_Else.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\bin\Debug\net6.0\IF_Then_Else.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\IF_Then_Else.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\refint\IF_Then_Else.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\IF_Then_Else.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\IF_Then_Else.genruntimeconfig.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\IF_Then_Else\obj\Debug\net6.0\ref\IF_Then_Else.dll

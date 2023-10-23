@@ -1,0 +1,14 @@
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\bin\Debug\net6.0\SELECT - IF.exe
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\bin\Debug\net6.0\SELECT - IF.deps.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\bin\Debug\net6.0\SELECT - IF.runtimeconfig.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\bin\Debug\net6.0\SELECT - IF.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\bin\Debug\net6.0\SELECT - IF.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\SELECT - IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\SELECT - IF.AssemblyInfoInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\SELECT - IF.AssemblyInfo.vb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\SELECT - IF.vbproj.CoreCompileInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\SELECT - IF.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\refint\SELECT - IF.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\SELECT - IF.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\SELECT - IF.genruntimeconfig.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\semester-1\Pengkondisian\SELECT - IF\obj\Debug\net6.0\ref\SELECT - IF.dll
