@@ -1,0 +1,14 @@
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfoInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfo.vb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.vbproj.CoreCompileInputs.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.exe
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.deps.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.runtimeconfig.json
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\refint\Kalkulator.dll
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.pdb
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.genruntimeconfig.cache
+D:\Ms Arul\NGODING TJOY(●'◡'●)\PBT\Kalkulator\Kalkulator\obj\Debug\net6.0\ref\Kalkulator.dll
